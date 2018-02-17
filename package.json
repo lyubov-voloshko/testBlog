@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lyubov-voloshko/testBlog/issues"
   },
-  "homepage": "https://github.com/lyubov-voloshko/testBlog#readme"
+  "homepage": "https://github.com/lyubov-voloshko/testBlog#readme",
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  }
 }
